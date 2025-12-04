@@ -101,3 +101,5 @@ C:\Users\elitw\Documents\SimpleMDB\tests\Smdb.Core.Test\obj\Debug\net9.0\refint\
 C:\Users\elitw\Documents\SimpleMDB\tests\Smdb.Core.Test\obj\Debug\net9.0\Smdb.Core.Test.pdb
 C:\Users\elitw\Documents\SimpleMDB\tests\Smdb.Core.Test\obj\Debug\net9.0\Smdb.Core.Test.genruntimeconfig.cache
 C:\Users\elitw\Documents\SimpleMDB\tests\Smdb.Core.Test\obj\Debug\net9.0\ref\Smdb.Core.Test.dll
+C:\Users\elitw\Documents\SimpleMDB\tests\Smdb.Core.Test\bin\Debug\net9.0\Shared.dll
+C:\Users\elitw\Documents\SimpleMDB\tests\Smdb.Core.Test\bin\Debug\net9.0\Shared.pdb
