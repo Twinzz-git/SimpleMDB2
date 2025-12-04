@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Smdb.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46472612e45bf654951ae6146c5d076f41aca3cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3242dda453881ea7042f24c032e5724461c68c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Smdb.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Smdb.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
