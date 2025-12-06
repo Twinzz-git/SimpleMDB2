@@ -2,6 +2,7 @@ namespace Smdb.Core.Movies;
 
 using Shared.Http;
 using Smdb.Core.Db;
+
 public class MemoryMovieRepository : IMovieRepository
 {
     private MemoryDatabase db;

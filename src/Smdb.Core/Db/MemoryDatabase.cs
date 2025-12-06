@@ -1,6 +1,7 @@
 namespace Smdb.Core.Db;
 
-using Smdb.Core.Movies;
+using Smdb.Core.Movies;  // Debe ser Smdb.Core.Movies, NO Smdb.Csr.Movies
+
 
 public class MemoryDatabase
 {
