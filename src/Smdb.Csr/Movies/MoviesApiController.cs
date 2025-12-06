@@ -1,11 +1,11 @@
-namespace Smdb.Api.Movies;
+namespace Smdb.Csr.Movies;
 
 using System.Collections;
 using System.Collections.Specialized;
 using System.Net;
 using System.Text.Json;
 using Shared.Http;
-using Smdb.Core.Movies;
+using Smdb.Csr.Movies;
 public class MoviesController
 {
     private IMovieService movieService;

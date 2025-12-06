@@ -1,5 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-namespace Smdb.Api;
+﻿// ============================================
+// ARCHIVO: src/Smdb.Csr/Program.cs
+// ============================================
+namespace Smdb.Csr;
 
 public class Program
 {

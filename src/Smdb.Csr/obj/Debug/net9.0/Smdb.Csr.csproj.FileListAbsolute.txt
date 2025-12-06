@@ -1,0 +1,6 @@
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Csr\obj\Debug\net9.0\Smdb.Csr.csproj.AssemblyReference.cache
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Csr\obj\Debug\net9.0\Smdb.Csr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Csr\obj\Debug\net9.0\Smdb.Csr.AssemblyInfoInputs.cache
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Csr\obj\Debug\net9.0\Smdb.Csr.AssemblyInfo.cs
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Csr\obj\Debug\net9.0\Smdb.Csr.csproj.CoreCompileInputs.cache
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Csr\obj\Debug\net9.0\Smdb.Csr.sourcelink.json

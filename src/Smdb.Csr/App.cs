@@ -1,32 +1,28 @@
-namespace Smdb.Api;
+// ============================================
+// ARCHIVO: src/Smdb.Csr/App.cs
+// =========================================
+
+namespace Smdb.Csr;
 
 using Shared.Http;
-using Smdb.Api.Movies;
-using Smdb.Core.Db;
-using Smdb.Core.Movies;
 public class App : HttpServer
 {
-    // <-- Rest of the code below goes here.
-
+    public App()
+    {
+    }
     public override void Init()
     {
-        var db = new MemoryDatabase();
-        var movieRepo = new MemoryMovieRepository(db);
-        var movieServ = new DefaultMovieService(movieRepo);
-        var movieCtrl = new MoviesController(movieServ);
-        var movieRouter = new MoviesRouter(movieCtrl);
-        var apiRouter = new HttpRouter();
         router.Use(HttpUtils.StructuredLogging);
         router.Use(HttpUtils.CentralizedErrorHandling);
         router.Use(HttpUtils.AddResponseCorsHeaders);
         router.Use(HttpUtils.DefaultResponse);
         router.Use(HttpUtils.ParseRequestUrl);
         router.Use(HttpUtils.ParseRequestQueryString);
-        router.UseParametrizedRouteMatching();
-        router.UseRouter("/api/v1", apiRouter);
-        apiRouter.UseRouter("/movies", movieRouter);
+        router.Use(HttpUtils.ServeStaticFiles);
+        router.UseSimpleRouteMatching();
+        router.MapGet("/", async (req, res, props, next) =>
+         { res.Redirect("/index.html"); await next(); });
+        router.MapGet("/movies", async (req, res, props, next) =>
+         { res.Redirect("/movies/index.html"); await next(); });
     }
-
-
-
 }

@@ -1,4 +1,4 @@
-namespace Smdb.Core.Movies;
+namespace Smdb.Csr.Movies;
 
 public class Movie
 {

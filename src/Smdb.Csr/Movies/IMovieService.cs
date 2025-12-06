@@ -1,4 +1,4 @@
-namespace Smdb.Core.Movies;
+namespace Smdb.Csr.Movies;
 
 using Shared.Http;
 public interface IMovieService
