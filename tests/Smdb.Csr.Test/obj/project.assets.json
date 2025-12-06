@@ -987,8 +987,8 @@
     },
     "Shared/1.0.0": {
       "type": "project",
-      "path": "../../SharedLibrary/src/Shared/Shared.csproj",
-      "msbuildProject": "../../SharedLibrary/src/Shared/Shared.csproj"
+      "path": "../../src/Shared/Shared.csproj",
+      "msbuildProject": "../../src/Shared/Shared.csproj"
     },
     "Smdb.Api/1.0.0": {
       "type": "project",

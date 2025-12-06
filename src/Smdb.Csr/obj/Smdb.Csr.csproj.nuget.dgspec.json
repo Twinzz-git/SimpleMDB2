@@ -4,14 +4,14 @@
     "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Smdb.Csr\\Smdb.Csr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elitw\\Documents\\SharedLibrary\\src\\Shared\\Shared.csproj": {
+    "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elitw\\Documents\\SharedLibrary\\src\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\elitw\\Documents\\SharedLibrary\\src\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\elitw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elitw\\Documents\\SharedLibrary\\src\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elitw\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\Shared.csproj": {
+    "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\elitw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elitw\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -147,6 +147,9 @@
               "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\Shared.csproj": {
                 "projectPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\Shared.csproj"
               },
+              "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Shared\\Shared.csproj"
+              },
               "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Smdb.Core\\Smdb.Core.csproj": {
                 "projectPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Smdb.Core\\Smdb.Core.csproj"
               }
@@ -212,6 +215,9 @@
             "projectReferences": {
               "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\Shared.csproj": {
                 "projectPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\Shared.csproj"
+              },
+              "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Shared\\Shared.csproj"
               }
             }
           }
@@ -273,8 +279,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\elitw\\Documents\\SharedLibrary\\src\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\elitw\\Documents\\SharedLibrary\\src\\Shared\\Shared.csproj"
+              "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Shared\\Shared.csproj"
               },
               "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Smdb.Api\\Smdb.Api.csproj": {
                 "projectPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Smdb.Api\\Smdb.Api.csproj"

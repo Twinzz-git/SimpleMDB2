@@ -1,6 +1,16 @@
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\bin\Debug\net9.0\Smdb.Core.deps.json
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\bin\Debug\net9.0\Smdb.Core.dll
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\bin\Debug\net9.0\Smdb.Core.pdb
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\bin\Debug\net9.0\Shared.dll
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\bin\Debug\net9.0\Shared.pdb
 C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\obj\Debug\net9.0\Smdb.Core.csproj.AssemblyReference.cache
 C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\obj\Debug\net9.0\Smdb.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\obj\Debug\net9.0\Smdb.Core.AssemblyInfoInputs.cache
 C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\obj\Debug\net9.0\Smdb.Core.AssemblyInfo.cs
 C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\obj\Debug\net9.0\Smdb.Core.csproj.CoreCompileInputs.cache
 C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\obj\Debug\net9.0\Smdb.Core.sourcelink.json
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\obj\Debug\net9.0\Smdb.Core.csproj.Up2Date
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\obj\Debug\net9.0\Smdb.Core.dll
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\obj\Debug\net9.0\refint\Smdb.Core.dll
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\obj\Debug\net9.0\Smdb.Core.pdb
+C:\Users\elitw\Documents\SimpleMDB\src\Smdb.Core\obj\Debug\net9.0\ref\Smdb.Core.dll

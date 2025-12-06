@@ -30,8 +30,8 @@
   "libraries": {
     "Shared/1.0.0": {
       "type": "project",
-      "path": "../../SharedLibrary/src/Shared/Shared.csproj",
-      "msbuildProject": "../../SharedLibrary/src/Shared/Shared.csproj"
+      "path": "../Shared/Shared.csproj",
+      "msbuildProject": "../Shared/Shared.csproj"
     },
     "Smdb.Core/1.0.0": {
       "type": "project",
@@ -72,6 +72,9 @@
           "projectReferences": {
             "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\Shared.csproj": {
               "projectPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\SharedLibrary\\src\\Shared\\Shared.csproj"
+            },
+            "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Shared\\Shared.csproj"
             },
             "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Smdb.Core\\Smdb.Core.csproj": {
               "projectPath": "C:\\Users\\elitw\\Documents\\SimpleMDB\\src\\Smdb.Core\\Smdb.Core.csproj"

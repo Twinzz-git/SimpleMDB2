@@ -1,9 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\SharedLibrary\src\Shared\Shared.csproj" />
     <ProjectReference Include="..\Smdb.Core\Smdb.Core.csproj" />
     <ProjectReference Include="..\Smdb.Api\Smdb.Api.csproj" />
+    <ProjectReference Include="..\Shared\Shared.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
